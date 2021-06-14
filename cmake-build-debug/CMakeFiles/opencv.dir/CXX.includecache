@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Administrator/Desktop/myGithubCode/RegularExpression/main.cpp
+iostream
+-
+iterator
+-
+string
+-
+regex
+-
+ctime
+-
+cstdio
+-
+fstream
+-
+windows.h
+-
+
