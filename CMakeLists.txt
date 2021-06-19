@@ -6,10 +6,10 @@ set(CMAKE_CXX_STANDARD 11)
 
 
 add_executable(opencv
-        main.cpp
-        CommonFunction.cpp
-        CommonFunction.h
-        CalculateCpuTime.h)
+        cplus/main.cpp
+        cplus/CommonFunction.cpp
+        cplus/CommonFunction.h
+        cplus/CalculateCpuTime.h)
 #添加动态链接库
 
 
